@@ -1,0 +1,12 @@
+{
+  "name": "vue-kansai",
+  "author": "yuukit <yuma.kitamura@ponos.co.jp>",
+  "private": true,
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "next"
+  }
+}
