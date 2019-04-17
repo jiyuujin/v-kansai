@@ -1,13 +1,11 @@
 ---
-home: true
-heroImage: vue_kansai.png
-footer: Created © 2019 jiyuujin LAB. All Rights Reserved.
+home: false
+#heroImage: vue_kansai.png
+#footer: Created © 2019 jiyuujin LAB. All Rights Reserved.
 ---
 
 ## グループの説明
 関西(大阪や京都など)を拠点に、Vue.js に興味のある方でしたらどなたでもお気軽にご参加ください。
-
-詳しくは、 Vue.js Event 〜 関西 (大阪/京都など) をご覧ください。
 
 Twitterハッシュタグは #v_kansai を使っています。
 
@@ -33,4 +31,5 @@ Twitterハッシュタグは #v_kansai を使っています。
 
 ## 場所・スポンサー
 もしウチの会社でやっても良いよ、との声や、スポンサーになりたいなどの声がございましたら、
+
 ご気軽に @jiyuujin (https://twitter.com/jiyuujinlab) までご連絡ください。

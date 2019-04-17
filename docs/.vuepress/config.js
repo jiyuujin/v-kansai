@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'docs',
-  description: 'ドキュメントを中心に',
+  title: 'v-kansai',
+  description: '',
   head: [
     [
       'meta',
@@ -40,7 +40,7 @@ module.exports = {
         'link': '/event/'
       }
     ],
-    sidebarDepth: 3,
+    // sidebarDepth: 3,
     sidebar: {
       '/event/': [
         {
