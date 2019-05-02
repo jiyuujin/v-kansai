@@ -1,6 +1,6 @@
 module.exports = {
   title: 'v-kansai',
-  description: '',
+  description: '登壇、技術ブログ一覧',
   head: [
     [
       'meta',
