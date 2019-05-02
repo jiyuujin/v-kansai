@@ -14,9 +14,12 @@ https://vuekansai.connpass.com/
 
 4/25 (Thu) 開催
 
-### 主催者ブログ
+- [amp-script + Vue.js](https://speakerdeck.com/masashi/number-v-kansai-5)
+- [iOS(iPad)だけでVue/Nuxtが書ける環境を構築してNetlifyへデプロイしてJAMStackなLTをする話](https://179-vue.netlify.com/)
+- [CSS設計手法でコンポーネント設計した話](https://speakerdeck.com/tech_many/cssshe-ji-shou-fa-dekonponentoshe-ji-sitahua)
 
-### 技術ブログ
+### 主催者ブログ
+- [【平成最後】V-KANSAI #5を開催しました！](https://webneko.info/posts/enter-the-final-v-kansai-of-the-heisei-period)
 
 ## v-kansai #4
 
