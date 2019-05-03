@@ -17,6 +17,10 @@ https://vuekansai.connpass.com/
 - [amp-script + Vue.js](https://speakerdeck.com/masashi/number-v-kansai-5)
 - [iOS(iPad)だけでVue/Nuxtが書ける環境を構築してNetlifyへデプロイしてJAMStackなLTをする話](https://179-vue.netlify.com/)
 - [CSS設計手法でコンポーネント設計した話](https://speakerdeck.com/tech_many/cssshe-ji-shou-fa-dekonponentoshe-ji-sitahua)
+- [TypeScriptとテストをはじめた](https://speakerdeck.com/syukai/typescripttotesutowohazimeta)
+- [初心者のVue奮闘記録](https://speakerdeck.com/libra189/vuebeginner)
+- [Nuxt.jsとExpressでWebサービスを作ってみた](https://speakerdeck.com/dala00/nuxt-dot-jstoexpressdewebsabisuwozuo-tutemita)
+- [Vue.jsのReactiveの中をのぞいてみた件](https://speakerdeck.com/diggymo/vue-dot-jsfalsereactivefalsezhong-wofalsezoitemitajian-35149316-f2b0-4ee3-91f3-fff6d272f129)
 
 ### 主催者ブログ
 - [【平成最後】V-KANSAI #5を開催しました！](https://webneko.info/posts/enter-the-final-v-kansai-of-the-heisei-period)
