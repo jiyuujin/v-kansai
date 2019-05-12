@@ -63,7 +63,7 @@ img {
 
 .card-text {
   position: absolute;
-  bottom: 60px;
+  bottom: 16px;
   color: #fff;
   background: rgba(0,0,0,.6);
   width: 100%;
