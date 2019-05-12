@@ -85,7 +85,7 @@ img {
   }
 
   .card-text {
-    bottom: 80px;
+    bottom: calc(50% - 2.4em);
   }
 }
 </style>
