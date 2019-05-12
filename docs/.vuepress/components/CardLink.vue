@@ -8,9 +8,12 @@
         :src="`./${image}.png`"
         :alt="name"
       >
+      <div class="date-text">
+        {{ date }}
+      </div>
       <div class="card-text">
         <p>
-          {{ name }}({{ date }})
+          {{ name }}
         </p>
       </div>
     </a>
@@ -45,15 +48,22 @@ export default {
   position: relative;
   width: calc(33.3% - 24px);
   margin: 8px;
+  border: inset 2px #35495e;
 }
 
 img {
   width: 100%;
 }
 
+.date-text {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
 .card-text {
   position: absolute;
-  bottom: 40px;
+  bottom: 60px;
   color: #fff;
   background: rgba(0,0,0,.6);
   width: 100%;
@@ -65,7 +75,7 @@ img {
   margin: 0;
   padding: 0 0.8em;
   text-align: center;
-  font-size: 16px;
+  font-size: 24px;
 }
 
 @media (max-width: 500px) {
