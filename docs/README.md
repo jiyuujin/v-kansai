@@ -4,12 +4,12 @@ footer: Created © 2019 jiyuujin LAB. All Rights Reserved.
 ---
 
 <TopFormat>
-<CardLink name="v-kansai #6" date="05月22日" connpassLinkID="126754" image="logo" />
-<CardLink name="v-kansai #5" date="04月25日" connpassLinkID="122664" image="logo" />
-<CardLink name="v-kansai #4" date="03月22日" connpassLinkID="121581" image="logo" />
-<CardLink name="v-kansai #3" date="02月28日" connpassLinkID="114795" image="logo" />
-<CardLink name="v-kansai #2" date="01月19日" connpassLinkID="112900" image="logo" />
-<CardLink name="v-kansai #1" date="12月20日" connpassLinkID="110542" image="logo" />
+<CardLink name="#6 (大阪)" date="05月22日" connpassLinkID="126754" image="logo" />
+<CardLink name="#5 (京都)" date="04月25日" connpassLinkID="122664" image="logo" />
+<CardLink name="#4 (大阪)" date="03月22日" connpassLinkID="121581" image="logo" />
+<CardLink name="#3 (京都)" date="02月28日" connpassLinkID="114795" image="logo" />
+<CardLink name="#2 (大阪)" date="01月19日" connpassLinkID="112900" image="logo" />
+<CardLink name="#1 (京都)" date="12月20日" connpassLinkID="110542" image="logo" />
 </TopFormat>
 
 ## グループの説明
