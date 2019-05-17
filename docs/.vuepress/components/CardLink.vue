@@ -1,9 +1,25 @@
 <template>
   <div class="card">
-    <a
-      :href="`https://vuekansai.connpass.com/event/${connpassLinkID}`"
-      target="_blank"
-    >
+    <div v-if="connpassLinkID">
+      <a
+        :href="`https://vuekansai.connpass.com/event/${connpassLinkID}`"
+        target="_blank"
+      >
+        <img
+          :src="`./${image}.png`"
+          :alt="name"
+        >
+        <div class="date-text">
+          {{ date }}
+        </div>
+        <div class="card-text">
+          <p>
+            {{ name }}
+          </p>
+        </div>
+      </a>
+    </div>
+    <div v-else>
       <img
         :src="`./${image}.png`"
         :alt="name"
@@ -16,7 +32,10 @@
           {{ name }}
         </p>
       </div>
-    </a>
+      <div class="pre-open-text">
+        開催決定！
+      </div>
+    </div>
   </div>
 </template>
 
@@ -33,7 +52,8 @@ export default {
     },
     connpassLinkID: {
       type: String,
-      required: true
+      // 開催決定かつプレオープンの場合が存在するため
+      required: false
     },
     image: {
       type: String,
@@ -76,6 +96,12 @@ img {
   padding: 0 0.8em;
   text-align: center;
   font-size: 24px;
+}
+
+.pre-open-text {
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 
 @media (max-width: 500px) {
