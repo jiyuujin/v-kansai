@@ -33,7 +33,7 @@
         </p>
       </div>
       <div class="pre-open-text">
-        開催決定！
+        開催準備中！
       </div>
     </div>
   </div>
