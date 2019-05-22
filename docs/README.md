@@ -4,7 +4,7 @@ footer: Created © 2019 jiyuujin LAB. All Rights Reserved.
 ---
 
 <TopFormat>
-<CardLink name="#7 (京都)" date="06月22日" image="logo" />
+<CardLink name="#7 (京都)" date="06月22日" connpassLinkID="127057" image="logo" />
 <CardLink name="#6 (大阪)" date="05月22日" connpassLinkID="126754" image="logo" />
 <CardLink name="#5 (京都)" date="04月25日" connpassLinkID="122664" image="logo" />
 <CardLink name="#4 (大阪)" date="03月22日" connpassLinkID="121581" image="logo" />

@@ -2,6 +2,14 @@
 
 https://vuekansai.connpass.com/
 
+## v-kansai #7
+
+6/22 (Sat) 開催
+
+### 主催者ブログ
+
+### 技術ブログ
+
 ## v-kansai #6
 
 5/22 (Wed) 開催
