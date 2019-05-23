@@ -14,9 +14,15 @@ https://vuekansai.connpass.com/
 
 5/22 (Wed) 開催
 
+- [Vue.js初心者がelectron-vueでデスクトップアプリケーションを作成した話](https://www.slideshare.net/azuki-penguin/vuejselectronvue-147187848)
+- [自分のポートフォリオをAWS Amplifyに移行した話](https://slides.com/chan_kakuz/amplify#/)
+- [VSCode Remoteで始めるNuxt生活](https://docs.google.com/presentation/d/1pqn-6V_0qnb5yR993lrq1Fw6gRqB7CZevlrcVQEt9gQ/edit#slide=id.p)
+
 ### 主催者ブログ
+- [V-KANSAI #6 (Monaca UG共催 / #Monaca_UG #v_kansai) を開催しました！](https://webneko.info/posts/enter-the-first-v-kansai-of-the-reiwa-period)
 
 ### 技術ブログ
+- [参加レポート [Monaca UG 共催] v-kansai Vue.js/Nuxt.js meetup #6](https://syukai.hatenablog.com/?_ga=2.66485102.1370841689.1558514579-1587242326.1558514579)
 
 ## v-kansai #5
 
