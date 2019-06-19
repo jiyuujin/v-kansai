@@ -1,6 +1,6 @@
 module.exports = {
   title: 'v-kansai',
-  description: '登壇、技術ブログ一覧',
+  description: '[非公式] v-kansai ドキュメント一覧',
   head: [
     [
       'meta',
@@ -8,11 +8,11 @@ module.exports = {
     ],
     [
       'meta',
-      { property: 'og:site_name', content: 'Vue.js Event' },
+      { property: 'og:site_name', content: 'Vue Event' },
     ],
     [
       'meta',
-      { property: 'og:url', content: 'https://jiyuujin.github.io/vue-kansai-docs' },
+      { property: 'og:url', content: 'https://nekohack.github.io/v-kansai' },
     ],
     [
       'meta',
@@ -20,18 +20,18 @@ module.exports = {
     ],
     [
       'meta',
-      { property: 'og:title', content: 'vue kansai docs' },
+      { property: 'og:title', content: '[非公式] v-kansai ドキュメント一覧' },
     ],
     [
       'meta',
       { property: 'og:description', content: 'v-kansaiでご紹介のあった資料を中心に記録しています。' },
     ],
   ],
-  base: '/vue-kansai-docs/',
+  base: '/v-kansai/',
   docsDir: 'docs',
   serviceWorker: true,
   themeConfig: {
-    repo: 'jiyuujin/vue-kansai-docs',
+    repo: 'nekohack/v-kansai',
     editLinks: false,
     docsDir: 'docs',
     nav: [

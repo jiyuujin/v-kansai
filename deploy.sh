@@ -17,7 +17,7 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# Deploy to https://nyankodev.github.io/vue-kansai-docs
-git push -f git@github.com:nyankodev/vue-kansai-docs.git master:gh-pages
+# Deploy to https://nekohack.github.io/v-kansai
+git push -f git@github.com:nekohack/v-kansai.git master:gh-pages
 
 cd -
