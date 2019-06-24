@@ -2,11 +2,29 @@
 
 https://vuekansai.connpass.com/
 
+<Link />
+
+## v-kansai #8
+
+7/24 (Wed) 開催
+
+### 主催者ブログ
+
+### 技術ブログ
+
 ## v-kansai #7
 
 6/22 (Sat) 開催
 
+- [Zen言語で WebAssembly](https://speakerdeck.com/tomoyuki/wasm-in-zen)
+- [TypeScriptでVueを書いてみよう!](https://speakerdeck.com/daikids2/typescriptde-vuewoshu-itemiyou)
+- [Web ComponentsとVue.js](https://speakerdeck.com/yukishiba/web-components-to-vue-dot-js)
+- [Cypressを導入してみた](https://speakerdeck.com/bumptakayuki/cypresswodao-ru-sitemita)
+- [Nuxt.js使いたい話](https://speakerdeck.com/chinen/v-kansai-meetup-number-8)
+- [高速ビルドで取り組んでいること](https://slides.com/jiyuujin/v-kansai-7#/)
+
 ### 主催者ブログ
+- [V-KANSAI #7 (#v_kansai) を開催しました！](https://webneko.dev/posts/enter-the-v-kansai-7-in-kyoto)
 
 ### 技術ブログ
 
