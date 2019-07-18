@@ -1,3 +1,5 @@
+# https://vuepress.vuejs.org/guide/deploy.html#github-pages
+
 language: node_js
 
 node_js:
