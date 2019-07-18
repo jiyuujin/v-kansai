@@ -3,24 +3,25 @@
 language: node_js
 
 node_js:
-  - '10'
+- '10'
 
 install:
-  - npm i -g vuepress
+- npm i -g vuepress
 
 script:
-  - npm run build
-
-#cache:
-#  directories:
-#    - node_modules
+- npm run build
 
 deploy:
   provider: pages
   skip-cleanup: true
   local_dir: docs
+  github-token: "$GITHUB_TOKEN"
   repo: nekohack
   keep-history: true
   target-branch: gh-pages
   on:
     branch: master
+
+env:
+  matrix:
+    secure: UJ1N2BezC3gt0vBg6Oi/5BIiZQqt7kYh95nxq3c1kmI/1n0zTlGekEvIdWab5BmLO5UWXH5Nv8abLpeQdHXualf37XQL4sl9aGhPN8UWXzbiRE8W+Q0RBRVfTJhthtis74IAmQOPQbw7WyWpcKchJ9ZobqWQ/56VqW3kB4G08ZyK6ybKD2hfyHxEohKbtdmULMdY8YjCBlhlAo+mM1jtj4g/3g8G0rvakYKe0zggvZd5XLoCY21ZsyqkbFyPdxnDKcYWjss3OFJGzSKtLhSq+LfqPSzJ0Mfh/SlHZaRNg+kEXEfUWlKIaer+P45IAxxFJxW1Mc40ptMIIFMGQrRksEenOtTxT9em7Ea6hJuG7gTOPfd0C5LI1MZvFtCQLfd5D+X82QhAVp8DbMiD50tKhABaJ0IJ6E/EEmdx6l6d2QHIASVLb/KFpTvdpMpcSeEaThHm4PsvZsPFHmoe6nTILiIf5AJXlvKEDxLj6dAolwd2IHoSDcWPzB7JP+htYLhfdeGyWDx86gAljJiX2sKCj+91pSfDbKjlLfik5ffTqIYV60eJdIF1PC2hbU4n3YsAkNxJ+BtQR1n9pQ7JmKY1mZECif3NR4eeN2hSHOKiBhzzqfz7KgfH6fmSusJPJGh584rb7UyKS67Psyl+sUC+tKXm2YZn9r2RmBq81SyTATs=
