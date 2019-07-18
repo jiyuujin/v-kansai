@@ -18,7 +18,7 @@ deploy:
   github-token: "$GITHUB_TOKEN"
   repo: nekohack/nekohack.github.io
   keep-history: true
-  target-branch: master:gh-pages
+  target-branch: gh-pages
   on:
     branch: master
 
