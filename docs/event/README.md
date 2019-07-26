@@ -25,8 +25,10 @@ https://vuekansai.connpass.com/
 7/24 (Wed) 開催
 
 ### 主催者ブログ
+- [V-KANSAI #8 (#v_kansai) リポート](https://webneko.dev/posts/enter-the-v-kansai-8-in-osaka)
 
 ### 技術ブログ
+- [v-kansai Vue.js/Nuxt.js meetup#8 に参加しました！](https://morimori-kochan.hatenablog.com/entry/2019/07/25/004904)
 
 ## v-kansai #7
 
@@ -53,7 +55,7 @@ https://vuekansai.connpass.com/
 - [VSCode Remoteで始めるNuxt生活](https://docs.google.com/presentation/d/1pqn-6V_0qnb5yR993lrq1Fw6gRqB7CZevlrcVQEt9gQ/edit#slide=id.p)
 
 ### 主催者ブログ
-- [V-KANSAI #6 (Monaca UG共催 / #Monaca_UG #v_kansai) を開催しました！](https://webneko.info/posts/enter-the-first-v-kansai-of-the-reiwa-period)
+- [V-KANSAI #6 (Monaca UG共催 / #Monaca_UG #v_kansai) リポート](https://webneko.info/posts/enter-the-first-v-kansai-of-the-reiwa-period)
 
 ### 技術ブログ
 - [参加レポート [Monaca UG 共催] v-kansai Vue.js/Nuxt.js meetup #6](https://syukai.hatenablog.com/?_ga=2.66485102.1370841689.1558514579-1587242326.1558514579)
@@ -86,7 +88,7 @@ https://vuekansai.connpass.com/
 - [@ionic/vueでWebアプリを作ってみる](https://speakerdeck.com/mikakane/vue-de-web-apuriwozuo-tutemiru)
 
 ### 主催者ブログ
-- [V-KANSAI VUE.JS/NUXT MEETUP #4を開催しました！](https://webneko.info/posts/enter-the-fourth-v-kansai-vue-js-nuxt-meetup-in-osaka)
+- [V-KANSAI VUE.JS/NUXT MEETUP #4 リポート](https://webneko.info/posts/enter-the-fourth-v-kansai-vue-js-nuxt-meetup-in-osaka)
 
 ### 技術ブログ
 - [v-kansai Vue.js/Nuxt.js meetup #4 参加してきました！](https://ht79.info/2019/03/21/v-kansai-vue-js-nuxt-js-meetup-4/)
@@ -123,7 +125,7 @@ https://vuekansai.connpass.com/
 - [お花咲かせたかっただけなのに -vue.jsでスクロールとアニメーションの実装-](https://speakerdeck.com/cotolier_risa/ohua-xiao-kasetakatutadakenafalseni-vue-dot-jsdesukurorutoanimesiyonfalseshi-zhuang)
 
 ### 主催者ブログ
-- [V-KANSAI VUE.JS/NUXT MEETUP #2を開催しました！](https://webneko.info/posts/enter-the-second-vue-js-nuxt-meetup-in-osaka)
+- [V-KANSAI VUE.JS/NUXT MEETUP #2 リポート](https://webneko.info/posts/enter-the-second-vue-js-nuxt-meetup-in-osaka)
 
 ### 技術ブログ
 - [Vue.js/Nuxt.jsのmeetupイベントに行った話](https://qiita.com/P3117/items/50246a7d2ae6d04da608)
