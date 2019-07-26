@@ -14,6 +14,8 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #8
 
+7/24 (Wed) 開催
+
 - [Vue と TypeScript と 私](https://docs.google.com/presentation/d/1Djx0Gw0oK7dI_2FKWxcWn3AvdF5NsOIbpv77u70zj1g/edit#slide=id.g5ce7141149_2_25)
 - [Google Nest HubでVue.jsを使った話、LINE Thingsでちょっとだけセキュアなシステム作った話](https://speakerdeck.com/hirophilip/v-kansai-0724)
 - [Function API You will use in future](https://speakerdeck.com/daikids2/function-api-you-will-use-in-future)
@@ -21,8 +23,6 @@ https://vuekansai.connpass.com/
 - [Functional Component in Vue.js](https://slides.com/chan_kakuz/deck-4#/)
 - [無限スクロールの話](https://slides.com/jiyuujin/20190724#/)
 - [無限スクロールを導入する](https://webneko.dev/posts/infinite-loading-in-webneko-blog)
-
-7/24 (Wed) 開催
 
 ### 主催者ブログ
 - [V-KANSAI #8 (#v_kansai) リポート](https://webneko.dev/posts/enter-the-v-kansai-8-in-osaka)
