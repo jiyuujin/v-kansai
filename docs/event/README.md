@@ -2,8 +2,6 @@
 
 https://vuekansai.connpass.com/
 
-<Link />
-
 ## v-kansai #9
 
 7/24 (Wed) 開催
