@@ -2,11 +2,29 @@
 
 https://vuekansai.connpass.com/
 
-## v-kansai #9
+## v-kansai #10
 
-7/24 (Wed) 開催
+9/18 (Wed) 開催
 
 ### 主催者ブログ
+
+### 技術ブログ
+
+## v-kansai #9
+
+8/21 (Wed) 開催
+
+- [CaT vol.7 in 秋田 振り返り](https://slides.com/jiyuujin/20190821-01#/)
+- [アプリ作成と運用から学ぶ Firebase と Vue.js](https://speakerdeck.com/ykanoh/apurizuo-cheng-toyun-yong-karaxue-bu-firebase-to-vue-dot-js-6a6c5d6f-0bee-4640-8d90-c0a3e51662dc)
+- [What is Firebase Dynamic Links](https://slides.com/chan_kakuz/deck-6#/)
+- [VueとFirestoreで簡単ToDoアプリ開発](https://docs.google.com/presentation/d/1NT58ZIe2xQOL_RsNW-r4K2_ep1w4fIK2IRHSjmsCsEs/mobilepresent?slide=id.g5faa9da147_1_0)
+- [Quasar ことはじめ](https://speakerdeck.com/azuki/quasar-kotohazime)
+- [VueでPWAするときに 気をつけておきたいTips](https://speakerdeck.com/daikids2/vuedepwasurutokini-qi-wotuketeokitaitips)
+- [Vue CLI テスト Tips集](https://slides.com/jiyuujin/20190817#/)
+- [GitHub ActionsでNuxtをFirebase Hostingにデプロイする](https://docs.google.com/presentation/d/1625hjBQG3MTf7T7QZUE9huYosDQhonMb_8Obiz4Scbc/mobilepresent?slide=id.p)
+
+### 主催者ブログ
+- [V-KANSAI #9 (FJUG共催 / #v_kansai) 開催しました](https://webneko.dev/posts/enter-the-v-kansai-9-with-fjug-osaka)
 
 ### 技術ブログ
 
