@@ -9,6 +9,7 @@ install:
 - npm i -g vuepress
 
 script:
+- npm install
 - npm run build
 
 deploy:
