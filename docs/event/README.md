@@ -6,9 +6,7 @@ https://vuekansai.connpass.com/
 
 9/18 (Wed) 開催
 
-### 主催者ブログ
-
-### 技術ブログ
+### ブログ
 
 ## v-kansai #9
 
@@ -23,10 +21,8 @@ https://vuekansai.connpass.com/
 - [Vue CLI テスト Tips集](https://slides.com/jiyuujin/20190817#/)
 - [GitHub ActionsでNuxtをFirebase Hostingにデプロイする](https://docs.google.com/presentation/d/1625hjBQG3MTf7T7QZUE9huYosDQhonMb_8Obiz4Scbc/mobilepresent?slide=id.p)
 
-### 主催者ブログ
+### ブログ
 - [V-KANSAI #9 (FJUG共催 / #v_kansai) 開催しました](https://webneko.dev/posts/enter-the-v-kansai-9-with-fjug-osaka)
-
-### 技術ブログ
 
 ## v-kansai #8
 
@@ -40,10 +36,8 @@ https://vuekansai.connpass.com/
 - [無限スクロールの話](https://slides.com/jiyuujin/20190724#/)
 - [無限スクロールを導入する](https://webneko.dev/posts/infinite-loading-in-webneko-blog)
 
-### 主催者ブログ
+### ブログ
 - [V-KANSAI #8 (#v_kansai) リポート](https://webneko.dev/posts/enter-the-v-kansai-8-in-osaka)
-
-### 技術ブログ
 - [v-kansai Vue.js/Nuxt.js meetup#8 に参加しました！](https://morimori-kochan.hatenablog.com/entry/2019/07/25/004904)
 
 ## v-kansai #7
@@ -57,10 +51,8 @@ https://vuekansai.connpass.com/
 - [Nuxt.js使いたい話](https://speakerdeck.com/chinen/v-kansai-meetup-number-8)
 - [高速ビルドで取り組んでいること](https://slides.com/jiyuujin/v-kansai-7#/)
 
-### 主催者ブログ
+### ブログ
 - [V-KANSAI #7 (#v_kansai) を開催しました！](https://webneko.dev/posts/enter-the-v-kansai-7-in-kyoto)
-
-### 技術ブログ
 
 ## v-kansai #6
 
@@ -70,10 +62,8 @@ https://vuekansai.connpass.com/
 - [自分のポートフォリオをAWS Amplifyに移行した話](https://slides.com/chan_kakuz/amplify#/)
 - [VSCode Remoteで始めるNuxt生活](https://docs.google.com/presentation/d/1pqn-6V_0qnb5yR993lrq1Fw6gRqB7CZevlrcVQEt9gQ/edit#slide=id.p)
 
-### 主催者ブログ
+### ブログ
 - [V-KANSAI #6 (Monaca UG共催 / #Monaca_UG #v_kansai) リポート](https://webneko.info/posts/enter-the-first-v-kansai-of-the-reiwa-period)
-
-### 技術ブログ
 - [参加レポート [Monaca UG 共催] v-kansai Vue.js/Nuxt.js meetup #6](https://syukai.hatenablog.com/?_ga=2.66485102.1370841689.1558514579-1587242326.1558514579)
 
 ## v-kansai #5
@@ -88,7 +78,7 @@ https://vuekansai.connpass.com/
 - [Nuxt.jsとExpressでWebサービスを作ってみた](https://speakerdeck.com/dala00/nuxt-dot-jstoexpressdewebsabisuwozuo-tutemita)
 - [Vue.jsのReactiveの中をのぞいてみた件](https://speakerdeck.com/diggymo/vue-dot-jsfalsereactivefalsezhong-wofalsezoitemitajian-35149316-f2b0-4ee3-91f3-fff6d272f129)
 
-### 主催者ブログ
+### ブログ
 - [【平成最後】V-KANSAI #5を開催しました！](https://webneko.info/posts/enter-the-final-v-kansai-of-the-heisei-period)
 
 ## v-kansai #4
@@ -103,10 +93,8 @@ https://vuekansai.connpass.com/
 - [Vue.jsで考えるMVVM](https://speakerdeck.com/44x1carbon/vue-dot-jsdekao-erumvvm)
 - [@ionic/vueでWebアプリを作ってみる](https://speakerdeck.com/mikakane/vue-de-web-apuriwozuo-tutemiru)
 
-### 主催者ブログ
+### ブログ
 - [V-KANSAI VUE.JS/NUXT MEETUP #4 リポート](https://webneko.info/posts/enter-the-fourth-v-kansai-vue-js-nuxt-meetup-in-osaka)
-
-### 技術ブログ
 - [v-kansai Vue.js/Nuxt.js meetup #4 参加してきました！](https://ht79.info/2019/03/21/v-kansai-vue-js-nuxt-js-meetup-4/)
 - [v-kansai#4 に参加しました！](https://morimori-kochan.hatenablog.com/entry/2019/03/21/204641)
 - [v-kansai Vue.js/Nuxt.js meetup #4に参加した](http://54.95.72.58/2019/03/21/v-kansai-vue-js-nuxt-js-meetup-4%E3%81%AB%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%9F/)
@@ -121,7 +109,7 @@ https://vuekansai.connpass.com/
 - [Vuexのアプリケーションをスナップショットテストする](https://speakerdeck.com/masashi/snapshot-testing-for-vuex-application)
 - [Vue Cli 3で作ったコンポーネントライブラリをnpmで公開する](https://qiita.com/coppieee/items/dcf120d6b8eef68ecb34)
 
-### 主催者ブログ
+### ブログ
 - [V-KANSAI VUE.JS/NUXT MEETUP #3を開催しました！](https://webneko.info/posts/enter-the-third-v-kansai-vue-js-nuxt-meetup-in-kyoto)
 
 ## v-kansai #2
@@ -140,10 +128,8 @@ https://vuekansai.connpass.com/
 - [Vue.js × LINE Payでリアルガチャを作ってみた](https://speakerdeck.com/torisankanasan/vue-dot-js-x-line-payderiarugatiyawozuo-tutemita-8e3644c6-7c16-404e-879d-59643a6bfb1d)
 - [お花咲かせたかっただけなのに -vue.jsでスクロールとアニメーションの実装-](https://speakerdeck.com/cotolier_risa/ohua-xiao-kasetakatutadakenafalseni-vue-dot-jsdesukurorutoanimesiyonfalseshi-zhuang)
 
-### 主催者ブログ
+### ブログ
 - [V-KANSAI VUE.JS/NUXT MEETUP #2 リポート](https://webneko.info/posts/enter-the-second-vue-js-nuxt-meetup-in-osaka)
-
-### 技術ブログ
 - [Vue.js/Nuxt.jsのmeetupイベントに行った話](https://qiita.com/P3117/items/50246a7d2ae6d04da608)
 - [【勉強会メモ】v-kansai Vue.js/Nuxt.js meetup #2](https://radiocat.hatenablog.com/entry/2019/01/19/000000)
 
@@ -158,7 +144,7 @@ https://vuekansai.connpass.com/
 - [一歩ずつ進めるVue.js](https://speakerdeck.com/syukai/bu-zutujin-meruvue-dot-js)
 - [ネイティブAndroidエンジニアがVueNativeでiOSアプリを作ってみた](https://www.slideshare.net/furusin/androidvuenativeios)
 
-### 主催者ブログ
+### ブログ
 - [V-KANSAI VUE.JS/NUXT MEETUP #1を開催しました！](https://webneko.info/posts/enter-the-first-vue-js-nuxt-meetup-in-kyoto)
 
 ## Osaka #0
