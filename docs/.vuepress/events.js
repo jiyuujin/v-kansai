@@ -53,4 +53,16 @@ export const Events = [
         with_community: 'FJUG',
         created_at: '2019/08/21'
     },
+    {
+        id: 10,
+        url: 'https://vuekansai.connpass.com/event/143861',
+        with_community: '',
+        created_at: '2019/09/18'
+    },
+    {
+        id: 11,
+        url: 'https://vuekansai.connpass.com/event/144194',
+        with_community: '京都Devかふぇ',
+        created_at: '2019/10/09'
+    }
 ]
