@@ -2,11 +2,23 @@
 
 https://vuekansai.connpass.com/
 
+## v-kansai #11
+
+10/09 (Wed) 開催
+
+### ブログ
+
 ## v-kansai #10
 
 9/18 (Wed) 開催
 
+- [CakePHPにVue導入 - その2](https://webneko.dev/posts/in-progress-to-vue-on-cakephp)
+- [小さなことから改善してる話](https://slides.com/jiyuujin/20190918#/)
+- [Vuexを使っていい感じにjwt認証を実装してみた](https://slides.com/mm-slide/vue-vuex-tips-and-jwt#/)
+- [Atomic Designで業務を改善した話](https://slides.com/chan_kakuz/deck-7#/)
+
 ### ブログ
+- [V-KANSAI #10 (#v_kansai) リポート](https://webneko.dev/posts/enter-the-v-kansai-10-in-osaka)
 
 ## v-kansai #9
 
