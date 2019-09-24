@@ -12,6 +12,7 @@ https://vuekansai.connpass.com/
 
 9/18 (Wed) 開催
 
+- [Vue.jsのビルドの種類](https://speakerdeck.com/kusamao/vue-builds)
 - [CakePHPにVue導入 - その2](https://webneko.dev/posts/in-progress-to-vue-on-cakephp)
 - [小さなことから改善してる話](https://slides.com/jiyuujin/20190918#/)
 - [Vuexを使っていい感じにjwt認証を実装してみた](https://slides.com/mm-slide/vue-vuex-tips-and-jwt#/)
