@@ -55,7 +55,14 @@ export default {
 <style scoped>
 .events {
   display: flex;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+.events:after {
+  content: "";
+  display: block;
+  width: 31%;
 }
 
 .event-card {
