@@ -6,7 +6,11 @@ https://vuekansai.connpass.com/
 
 10/09 (Wed) 開催
 
+- [関西最速Vue.jsLondonまとめ](https://slides.com/chan_kakuz/deck-9)
+- [Vue.jsのパフォーマンスについて話します。](https://shisama.hatenablog.com/entry/2019/10/09/080000)
+
 ### ブログ
+- [V-KANSAI #11 (京都Devかふぇ共催 / #v_kansai) を開催しました](https://webneko.dev/posts/enter-the-v-kansai-11-with-kyoto-dev-cafe)
 
 ## v-kansai #10
 
