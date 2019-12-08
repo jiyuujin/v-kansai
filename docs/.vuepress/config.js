@@ -1,6 +1,6 @@
 module.exports = {
   title: 'v-kansai',
-  description: '[非公式] v-kansai ドキュメント一覧',
+  description: '【非公式】v-kansai ドキュメント一覧',
   head: [
     [
       'meta',
@@ -8,7 +8,7 @@ module.exports = {
     ],
     [
       'meta',
-      { property: 'og:site_name', content: 'Vue Event' },
+      { property: 'og:site_name', content: 'v-kansai' },
     ],
     [
       'meta',
@@ -20,7 +20,7 @@ module.exports = {
     ],
     [
       'meta',
-      { property: 'og:title', content: '[非公式] v-kansai ドキュメント一覧' },
+      { property: 'og:title', content: '【非公式】v-kansai ドキュメント一覧' },
     ],
     [
       'meta',
@@ -34,17 +34,11 @@ module.exports = {
     repo: 'nekohack/v-kansai',
     editLinks: false,
     docsDir: 'docs',
-    nav: [
-      {
-        'text': 'Event',
-        'link': '/event/'
-      }
-    ],
-    // sidebarDepth: 3,
+    nav: [],
     sidebar: {
-      '/event/': [
+      '/': [
         {
-          title: 'Event',
+          title: 'Meetup',
           collapsable: false,
           children: [
             ''
@@ -53,4 +47,4 @@ module.exports = {
       ]
     }
   }
-};
+}
