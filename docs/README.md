@@ -7,18 +7,30 @@ footer: Created © 2019 jiyuujin LAB. All Rights Reserved.
 
 https://vuekansai.connpass.com/
 
+## v-kansai #13
+
+2020/01/06 (Wed) 開催
+
+- [サーバサイドアプリケーションエンジニアのためのVue.js&UIkit](https://speakerdeck.com/toshikiohnogi/sabasaidoapurikesiyonenziniafalsetamefalsevue-dot-js-and-uikit)
+- [Vue.Draggableで手軽にリストをドラッグ&ドロップで並び替える](https://speakerdeck.com/azuki/vue-dot-draggable-deshou-qing-nirisutowodoratugu-and-dorotupudebing-biti-eru)
+- [頑張らないオレオレVuex規約を作った話](https://speakerdeck.com/is_ryo/wan-zhang-ranaioreorevuexgui-yue-wozuo-tutahua)
+- [Introduce to Pinia](https://slides.com/chan_kakuz/pinia#/)
+
+### ブログ
+
 ## v-kansai #12
 
-12/06 (Fri) 開催
+2019/12/06 (Fri) 開催
 
 - [Nuxt.js + microCMS + Netlifyでコーポレイトサイトをリニューアルした話](https://speakerdeck.com/bumptakayuki/nuxt-dot-js-plus-microcms-plus-netlifytekohoretosaitoworiniyuarusitahua)
 - [2019年を振り返る](https://webneko.dev/posts/feedback-2019)
 
 ### ブログ
+- [V-KANSAI #12 を開催しました！](https://webneko.dev/posts/enter-the-final-v-kansai-in-2019)
 
 ## v-kansai #11
 
-10/09 (Wed) 開催
+2019/10/09 (Wed) 開催
 
 - [関西最速Vue.jsLondonまとめ](https://slides.com/chan_kakuz/deck-9)
 - [Vue.jsのパフォーマンスについて話します。](https://shisama.hatenablog.com/entry/2019/10/09/080000)
@@ -28,7 +40,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #10
 
-9/18 (Wed) 開催
+2019/09/18 (Wed) 開催
 
 - [Vue.jsのビルドの種類](https://speakerdeck.com/kusamao/vue-builds)
 - [CakePHPにVue導入 - その2](https://webneko.dev/posts/in-progress-to-vue-on-cakephp)
@@ -41,7 +53,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #9
 
-8/21 (Wed) 開催
+2019/08/21 (Wed) 開催
 
 - [CaT vol.7 in 秋田 振り返り](https://slides.com/jiyuujin/20190821-01#/)
 - [アプリ作成と運用から学ぶ Firebase と Vue.js](https://speakerdeck.com/ykanoh/apurizuo-cheng-toyun-yong-karaxue-bu-firebase-to-vue-dot-js-6a6c5d6f-0bee-4640-8d90-c0a3e51662dc)
@@ -57,7 +69,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #8
 
-7/24 (Wed) 開催
+2019/07/24 (Wed) 開催
 
 - [Vue と TypeScript と 私](https://docs.google.com/presentation/d/1Djx0Gw0oK7dI_2FKWxcWn3AvdF5NsOIbpv77u70zj1g/edit#slide=id.g5ce7141149_2_25)
 - [Google Nest HubでVue.jsを使った話、LINE Thingsでちょっとだけセキュアなシステム作った話](https://speakerdeck.com/hirophilip/v-kansai-0724)
@@ -73,7 +85,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #7
 
-6/22 (Sat) 開催
+2019/06/22 (Sat) 開催
 
 - [Zen言語で WebAssembly](https://speakerdeck.com/tomoyuki/wasm-in-zen)
 - [TypeScriptでVueを書いてみよう!](https://speakerdeck.com/daikids2/typescriptde-vuewoshu-itemiyou)
@@ -87,7 +99,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #6
 
-5/22 (Wed) 開催
+2019/05/22 (Wed) 開催
 
 - [Vue.js初心者がelectron-vueでデスクトップアプリケーションを作成した話](https://www.slideshare.net/azuki-penguin/vuejselectronvue-147187848)
 - [自分のポートフォリオをAWS Amplifyに移行した話](https://slides.com/chan_kakuz/amplify#/)
@@ -99,7 +111,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #5
 
-4/25 (Thu) 開催
+2019/04/25 (Thu) 開催
 
 - [amp-script + Vue.js](https://speakerdeck.com/masashi/number-v-kansai-5)
 - [iOS(iPad)だけでVue/Nuxtが書ける環境を構築してNetlifyへデプロイしてJAMStackなLTをする話](https://179-vue.netlify.com/)
@@ -114,7 +126,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #4
 
-3/20 (Wed) 開催
+2019/03/20 (Wed) 開催
 
 - [Nuxt.jsのディレクトリ](https://speakerdeck.com/sshono1210/nuxt-dot-js-falsedeirekutori)
 - [揮発性の高いコンポーネントを開発した話](https://speakerdeck.com/uhck/hui-fa-xing-falsegao-ikonponentowozuo-ruhua)
@@ -133,7 +145,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #3
 
-2/28 (Thu) 開催
+2019/02/28 (Thu) 開催
 
 - [Web猫ブログにGraphQLを導入してみた話](https://master.d27qc70um52q3u.amplifyapp.com/)
 - [UMDをVue-CLI3で読み込む](https://speakerdeck.com/tech_many/umdwovue-cli3dedu-miip-mu)
@@ -145,7 +157,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #2
 
-1/19 (Sat) 開催
+2019/01/19 (Sat) 開催
 
 - [Vueコンポーネントについて考えてみた](https://speakerdeck.com/uhck/vuekonhonentonituitekao-etemita)
 - [Vue.jsからFirebaseに入門しようとしたら使い方間違ってた件](https://www.slideshare.net/amanoese/vuejsfirebase-128489800)
@@ -166,7 +178,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #1
 
-12/20 (Thu) 開催
+2018/12/20 (Thu) 開催
 
 - [個人的な2018年の振り返りとVue Fes Japan参戦録など](https://jiyuujin.github.io/vue-fes-japan-2018-feedback/)
 - [VueとServerlessと(AWSと)と私](https://master.d1hlhsyp6sohfy.amplifyapp.com/)
@@ -180,7 +192,7 @@ https://vuekansai.connpass.com/
 
 ## Osaka #0
 
-6/30 (Sat) 開催
+2018/06/30 (Sat) 開催
 
 - [デザイナーの私がVue.jsを触ってみた](https://speakerdeck.com/cotolier_risa/dezainafalsesi-gavue-dot-jswohong-tutemita)
 - [Clean Architecture with Vue](https://speakerdeck.com/andoshin11/clean-architecture-with-vue)
