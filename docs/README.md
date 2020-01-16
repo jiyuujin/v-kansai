@@ -17,6 +17,8 @@ https://vuekansai.connpass.com/
 - [Introduce to Pinia](https://slides.com/chan_kakuz/pinia#/)
 
 ### ブログ
+- [@tunemage さん執筆 (v-kansai Vue.js/Nuxt.js meetup #13 に参加してきました)](http://tunemage.hatenablog.com/entry/2020/01/16/181025)
+- [@sutetotanuki さん執筆 (v-kansai Vue.js/Nuxt.js meetup #13 に参加してきました)](https://dev.classmethod.jp/client-side/vue/v-kansai-vue-js-nuxt-js-meetup-13/)
 
 ## v-kansai #12
 
@@ -81,7 +83,7 @@ https://vuekansai.connpass.com/
 
 ### ブログ
 - [V-KANSAI #8 (#v_kansai) リポート](https://webneko.dev/posts/enter-the-v-kansai-8-in-osaka)
-- [v-kansai Vue.js/Nuxt.js meetup#8 に参加しました！](https://morimori-kochan.hatenablog.com/entry/2019/07/25/004904)
+- [morimorikochan (@marooon88) さん執筆 (v-kansai Vue.js/Nuxt.js meetup#8 に参加しました！)](https://morimori-kochan.hatenablog.com/entry/2019/07/25/004904)
 
 ## v-kansai #7
 
@@ -107,7 +109,7 @@ https://vuekansai.connpass.com/
 
 ### ブログ
 - [V-KANSAI #6 (Monaca UG共催 / #Monaca_UG #v_kansai) リポート](https://webneko.info/posts/enter-the-first-v-kansai-of-the-reiwa-period)
-- [参加レポート [Monaca UG 共催] v-kansai Vue.js/Nuxt.js meetup #6](https://syukai.hatenablog.com/?_ga=2.66485102.1370841689.1558514579-1587242326.1558514579)
+- [ユカイ さん執筆 (参加レポート [Monaca UG 共催] v-kansai Vue.js/Nuxt.js meetup #6)](https://syukai.hatenablog.com/?_ga=2.66485102.1370841689.1558514579-1587242326.1558514579)
 
 ## v-kansai #5
 
