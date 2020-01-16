@@ -9,7 +9,7 @@ https://vuekansai.connpass.com/
 
 ## v-kansai #13
 
-2020/01/06 (Wed) 開催
+2020/01/15 (Wed) 開催
 
 - [サーバサイドアプリケーションエンジニアのためのVue.js&UIkit](https://speakerdeck.com/toshikiohnogi/sabasaidoapurikesiyonenziniafalsetamefalsevue-dot-js-and-uikit)
 - [Vue.Draggableで手軽にリストをドラッグ&ドロップで並び替える](https://speakerdeck.com/azuki/vue-dot-draggable-deshou-qing-nirisutowodoratugu-and-dorotupudebing-biti-eru)
