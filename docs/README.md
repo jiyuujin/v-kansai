@@ -7,6 +7,12 @@ footer: Created © 2019 jiyuujin LAB. All Rights Reserved.
 
 https://vuekansai.connpass.com/
 
+## v-kansai #14
+
+2020/03/06 (Fri) 開催
+
+### ブログ
+
 ## v-kansai #13
 
 2020/01/15 (Wed) 開催
